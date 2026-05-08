@@ -4,9 +4,9 @@ date: 2026-05-04 07:54:53
 tags: VM Ware
 categories: VM
 ---
-I built this blog beased on Cloudflare Pages+hexo+Github, I plan to create several articles to introduce how I achieve this and this is the first one, to build a server to let me write my blog, manage it and publish it.
+I built this blog based on Cloudflare Pages+hexo+Github, I plan to create several articles to introduce how I achieve this and this is the first one, to build a server to let me write my blog, manage it and publish it.
 
-I will share how create an Ubuntu VM on VSphere in this artile.
+I will share how create an Ubuntu VM on VSphere in this article.
 
 
 
