@@ -4,6 +4,7 @@ date: 2026-05-04 07:54:53
 tags: SSH
 category: VM
 ---
+
 ## What's SSH
 
 Before I created the server to host this blog, I didn't know what's actually SSH before, I just followed the docs to create, generate the ssh key then copy to the ssh public key box of the VM, but after this time, I learned it and found it is very easy to understand.
