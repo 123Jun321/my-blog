@@ -37,7 +37,7 @@ hexo server
 
 ## Init Github repo
 1. Install git: https://git-scm.com/install/linux
-2. Register Github account if you don't have:https://github.com/
+2. Register Github account if you don't have: https://github.com/
 3. Generate your own ssh key and upload the public key to the github: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account, about ssh, you can refer to my previous [blog](https://my-blog-12c.pages.dev/2026/05/03/What-is-SSH/)
 4. Create a new repo on Github: https://docs.github.com/en/get-started/start-your-journey/hello-world#step-1-create-a-repository
 5. Go to your blog folder and upload the blog files to Github:
