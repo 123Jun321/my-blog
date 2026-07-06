@@ -2,7 +2,9 @@
 title: How to RSS your blog on Linkedin
 date: 2026-05-17 07:14:16
 tags: Blog
-categories:  [Hexo, Zapier]
+categories: 
+  - Hexo
+  - [Zapier]
 ---
 Recently I achieved that if I post a new blog, it will generate a new post to my Linkedin like RSS, and I will introduce how to do this in this article.
 

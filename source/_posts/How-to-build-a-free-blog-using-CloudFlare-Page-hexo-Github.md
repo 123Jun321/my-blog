@@ -2,7 +2,10 @@
 title: How to build a free blog using Cloudflare Page+hexo+Github
 date: 2026-05-04 07:56:19
 tags: Blog
-categories: [Hexo,Github]
+#categories: [Hexo,Github]
+categories: 
+   - [Hexo]
+   - [Github]
 ---
 
 I build this blg based on Cloudflare Pages+Hexo+Github, and this is totally free if you can accept the free domain of Cloudflare Pages, anyway, I'm okay with that. I will introduce how to achieve it in this article.
